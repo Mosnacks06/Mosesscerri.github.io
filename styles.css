@@ -14,7 +14,7 @@ body {
 
 /* Navbar */
 header {
-    background-color: #ff6b6b;
+    background-color: #2A2B2A;
     padding: 1rem 0;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
@@ -41,7 +41,7 @@ nav ul {
 }
 
 .nav-title li a:hover {
-    color: #ffeaea;
+    color: #dadada;
 }
 
 .nav-contact a {
@@ -56,19 +56,19 @@ nav ul {
 
 .nav-contact a:hover {
     background-color: #fff;
-    color: #ff6b6b;
+    color: #2A2B2A;
 }
 
 /* Home Intro */
 .home-intro {
     text-align: center;
     padding: 4rem 2rem;
-    background-color: #ffdfdf;
+    background-color: #575A5E;
 }
 
 .home-intro h1 {
     font-size: 2.5rem;
-    color: #333;
+    color: #ffffff;
     margin-bottom: 2rem;
 }
 
@@ -92,15 +92,6 @@ nav ul {
 .image-link a img:hover {
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0,0,0,0.25);
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    padding: 2rem 0;
-    background-color: #ff6b6b;
-    color: #fff;
-    margin-top: 4rem;
 }
 
 /* Responsive tweaks */
@@ -155,7 +146,7 @@ footer {
     max-width: 700px;
     margin: 3rem auto;
     padding: 2rem;
-    background-color: #ffeaea;
+    background-color: #F4F7F5;
     border-radius: 12px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.1);
 }
@@ -188,7 +179,7 @@ form textarea {
 }
 
 form button {
-    background-color: #ff6b6b;
+    background-color:#f3f3f3;
     padding: 0.7rem 1.5rem;
     font-weight: bold;
     border-radius: 6px;
@@ -196,7 +187,7 @@ form button {
 }
 
 form button:hover {
-    background-color: #e05555;
+    background-color: #ffffff;
 }
 
 /* Work / Portfolio Page */
@@ -272,7 +263,7 @@ main {
 
 /* Footer styling */
 footer {
-    background-color: #ff6b6b;
+    background-color:#2A2B2A;
     padding: 1rem;
     text-align: center;
     color: white;
